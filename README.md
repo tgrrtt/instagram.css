@@ -1,6 +1,6 @@
 # instagram.css
 
-Drop in css to instantly make all your pictures look better.
+Drop in css to instantly make your pictures look better.
 
 ## Proof
 Before
