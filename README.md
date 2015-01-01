@@ -9,4 +9,4 @@ Before
 
 After
 
-![](http://i.imgur.com/K75DgDB.jpg)
+![](http://i.imgur.com/lVeHMjG.jpg)
