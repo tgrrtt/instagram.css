@@ -1,4 +1,4 @@
 img {
-  -webkit-filter: contrast(160%) brightness(120%) sepia(40%) saturate(140%);
-  filter: contrast(160%) brightness(120%) sepia(40%) saturate(140%);
+  -webkit-filter: contrast(1.6) brightness(1.2) sepia(0.4) saturate(1.4) hue-rotate(-15deg);
+  filter: contrast(1.6) brightness(1.2) sepia(0.4) saturate(1.4) hue-rotate(-15deg);
 }
